@@ -70,5 +70,8 @@ dependencies {
     implementation "androidx.camera:camera-view:1.1.0"
     implementation "androidx.camera:camera-lifecycle:1.1.0"
 
-    implementation "com.google.accompanist:accompanist-permissions:0.24.13-rc"
+    implementation "com.google.accompanist:accompanist-permissions:0.24.11-rc"
+
+    implementation 'com.google.android.gms:play-services-mlkit-text-recognition:18.0.0'
+
 }
